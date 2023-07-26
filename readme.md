@@ -1,1 +1,1 @@
-my CV
+https://vwital.github.io/my-cv/
